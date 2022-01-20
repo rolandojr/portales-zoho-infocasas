@@ -5,6 +5,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Repository;
 
 import com.google.gson.Gson;
@@ -17,6 +19,8 @@ import com.zoho.crm.library.exception.ZCRMException;
 @Repository
 public class LeadRepositoryInfocasasImpl implements ILeadRepositoryInfocasas {
 
+	private Logger log = LoggerFactory.getLogger(LeadRepositoryInfocasasImpl.class);
+	
 	@Override
 	public Map<String, Object> createNewLead(Infocasas infocasas) throws ZCRMException {
 		
@@ -42,7 +46,7 @@ public class LeadRepositoryInfocasasImpl implements ILeadRepositoryInfocasas {
 				CommonUtil.Trigger.blueprint);
 		APIResponse response = record.create(triggers);
 		String dataJson = response.getResponseJSON().toString();
-		
+		log.info(dataJson);
 		registro = formatJSON.fromJson(dataJson, registro.getClass());
 		return registro;
 	}

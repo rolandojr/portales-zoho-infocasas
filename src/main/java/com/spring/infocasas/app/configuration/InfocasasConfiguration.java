@@ -18,8 +18,8 @@ public class InfocasasConfiguration {
 		zcrmConfigurations.put("client_secret", "57ab9fb63c44c36c4b658d77182ae1ed3bb23e19df");//
 		zcrmConfigurations.put("redirect_uri", "https://www.google.com/response");
 		zcrmConfigurations.put("persistence_handler_class", "com.zoho.oauth.clientapp.ZohoOAuthFilePersistence");
-		zcrmConfigurations.put("oauth_tokens_file_path","C:\\Users\\rolan\\Documents\\m4g-projects\\spring-boot-los-portales-info-casas\\src\\main\\java\\path_to_tokens\\token-infocasas.properties");
-//		zcrmConfigurations.put("oauth_tokens_file_path", "/opt/los-portales/token-infocasas.properties");
+//		zcrmConfigurations.put("oauth_tokens_file_path","C:\\Users\\rolan\\Documents\\m4g-projects\\spring-boot-los-portales-info-casas\\src\\main\\java\\path_to_tokens\\token-infocasas.properties");
+		zcrmConfigurations.put("oauth_tokens_file_path", "/opt/los-portales/token-infocasas.properties");
 		zcrmConfigurations.put("domainSuffix", "com");// optional. Default is com. "cn" and "eu" supported
 		zcrmConfigurations.put("accessType", "Production");// Production->www(default), Development->developer,// Sandbox->sandbox(optional)
 //		zcrmConfigurations.put("accessType", "Sandbox");// Production->www(default), Development->developer,// Sandbox->sandbox(optional)
