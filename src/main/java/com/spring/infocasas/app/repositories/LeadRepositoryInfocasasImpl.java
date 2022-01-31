@@ -32,7 +32,7 @@ public class LeadRepositoryInfocasasImpl implements ILeadRepositoryInfocasas {
 		record.setFieldValue("First_Name", infocasas.getNombre());
 		record.setFieldValue("Last_Name", infocasas.getApellido());
 		record.setFieldValue("Email", infocasas.getEmail());
-		record.setFieldValue("Phone", infocasas.getTelefono());
+		record.setFieldValue("Mobile", infocasas.getTelefono());
 		record.setFieldValue("DNI", infocasas.getDni());
 		record.setFieldValue("Horario", infocasas.getHorario());
 		record.setFieldValue("Proyecto", infocasas.getProyecto());
@@ -40,7 +40,7 @@ public class LeadRepositoryInfocasasImpl implements ILeadRepositoryInfocasas {
 		record.setFieldValue("UTM_Source", infocasas.getUtm_source());
 		record.setFieldValue("UTM_Medium", infocasas.getUtm_medium());
 		record.setFieldValue("Industria", infocasas.getIndustria());
-//		record.setFieldValue("Servicio_Web", "Nexo Inmobiliario");
+		record.setFieldValue("Lead_Source", "Infocasas");
 //		
 		List<CommonUtil.Trigger> triggers = Arrays.asList(CommonUtil.Trigger.workflow, CommonUtil.Trigger.approval,
 				CommonUtil.Trigger.blueprint);

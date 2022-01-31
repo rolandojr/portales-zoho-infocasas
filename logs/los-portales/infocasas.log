@@ -1,61 +1,4 @@
-2022-01-20 18:05:07 [restartedMain] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplication - Starting SpringBootLosPortalesInfoCasasApplication using Java 15.0.2 on DESKTOP-003RRJR with PID 5316 (C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas\target\classes started by rolan in C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas)
-2022-01-20 18:05:07 [restartedMain] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplication - No active profile set, falling back to default profiles: default
-2022-01-20 18:05:07 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
-2022-01-20 18:05:07 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
-2022-01-20 18:05:07 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
-2022-01-20 18:05:07 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2022-01-20 18:05:07 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 199 ms
-2022-01-20 18:05:07 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
-2022-01-20 18:05:07 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2022-01-20 18:05:07 [restartedMain] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplication - Started SpringBootLosPortalesInfoCasasApplication in 0.332 seconds (JVM running for 263.833)
-2022-01-20 18:05:07 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
-2022-01-20 18:05:09 [restartedMain] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplication - Starting SpringBootLosPortalesInfoCasasApplication using Java 15.0.2 on DESKTOP-003RRJR with PID 5316 (C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas\target\classes started by rolan in C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas)
-2022-01-20 18:05:09 [restartedMain] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplication - No active profile set, falling back to default profiles: default
-2022-01-20 18:05:09 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
-2022-01-20 18:05:09 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
-2022-01-20 18:05:09 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
-2022-01-20 18:05:09 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2022-01-20 18:05:09 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 199 ms
-2022-01-20 18:05:09 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
-2022-01-20 18:05:09 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2022-01-20 18:05:09 [restartedMain] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplication - Started SpringBootLosPortalesInfoCasasApplication in 0.301 seconds (JVM running for 265.654)
-2022-01-20 18:05:09 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
-2022-01-20 18:05:11 [restartedMain] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplication - Starting SpringBootLosPortalesInfoCasasApplication using Java 15.0.2 on DESKTOP-003RRJR with PID 5316 (C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas\target\classes started by rolan in C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas)
-2022-01-20 18:05:11 [restartedMain] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplication - No active profile set, falling back to default profiles: default
-2022-01-20 18:05:11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
-2022-01-20 18:05:11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
-2022-01-20 18:05:11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
-2022-01-20 18:05:11 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2022-01-20 18:05:11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 212 ms
-2022-01-20 18:05:11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
-2022-01-20 18:05:11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2022-01-20 18:05:11 [restartedMain] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplication - Started SpringBootLosPortalesInfoCasasApplication in 0.314 seconds (JVM running for 267.454)
-2022-01-20 18:05:11 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
-2022-01-20 18:05:15 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2022-01-20 18:05:15 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
-2022-01-20 18:05:15 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
-2022-01-20 18:05:15 [http-nio-8080-exec-2] INFO  com.zoho.oauth.client.ZohoOAuth - Zoho OAuth Client Library configuration properties : {accessType=Production, minLogLevel=OFF, currentUserEmail=adminzoholpd@losportalesdepas.com.pe, scope=ZohoCRM.modules.ALL,ZohoCRM.settings.ALL,Aaaserver.profile.read, domainSuffix=com, client_secret=57ab9fb63c44c36c4b658d77182ae1ed3bb23e19df, redirect_uri=https://www.google.com/response, iamURL=https://accounts.zoho.com, client_id=1000.K93T18BEKQOKG8684AU6JE14HY1ECL, oauth_tokens_file_path=C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas\src\main\java\path_to_tokens\token-infocasas.properties, persistence_handler_class=com.zoho.oauth.clientapp.ZohoOAuthFilePersistence}
-2022-01-20 18:05:55 [RMI TCP Connection(23)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
-2022-01-20 18:15:29 [restartedMain] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplication - Starting SpringBootLosPortalesInfoCasasApplication using Java 15.0.2 on DESKTOP-003RRJR with PID 4036 (C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas\target\classes started by rolan in C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas)
-2022-01-20 18:15:29 [restartedMain] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplication - No active profile set, falling back to default profiles: default
-2022-01-20 18:15:29 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2022-01-20 18:15:29 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2022-01-20 18:15:31 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
-2022-01-20 18:15:31 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
-2022-01-20 18:15:31 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
-2022-01-20 18:15:31 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-2022-01-20 18:15:31 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1325 ms
-2022-01-20 18:15:31 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
-2022-01-20 18:15:31 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
-2022-01-20 18:15:31 [restartedMain] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplication - Started SpringBootLosPortalesInfoCasasApplication in 2.455 seconds (JVM running for 3.505)
-2022-01-20 18:15:46 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2022-01-20 18:15:46 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
-2022-01-20 18:15:46 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
-2022-01-20 18:15:47 [http-nio-8080-exec-1] INFO  c.s.i.a.c.LeadInfocasasRestController - SolicitudLead [nombre=rolando, apellido=ramos, email=rolandojavier11.ramos@gmail.com, telefono=91818181, dni=71718191, horario=por la mañana, proyecto=LA MAR, origen=Origen1, utm_source=utm_source, utm_medium=utm_medium, industria=industria]
-2022-01-20 18:15:47 [http-nio-8080-exec-1] INFO  com.zoho.oauth.client.ZohoOAuth - Zoho OAuth Client Library configuration properties : {accessType=Production, minLogLevel=OFF, currentUserEmail=adminzoholpd@losportalesdepas.com.pe, scope=ZohoCRM.modules.ALL,ZohoCRM.settings.ALL,Aaaserver.profile.read, domainSuffix=com, client_secret=57ab9fb63c44c36c4b658d77182ae1ed3bb23e19df, redirect_uri=https://www.google.com/response, iamURL=https://accounts.zoho.com, client_id=1000.K93T18BEKQOKG8684AU6JE14HY1ECL, oauth_tokens_file_path=C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas\src\main\java\path_to_tokens\token-infocasas.properties, persistence_handler_class=com.zoho.oauth.clientapp.ZohoOAuthFilePersistence}
-2022-01-20 18:15:50 [http-nio-8080-exec-1] INFO  c.s.i.a.r.LeadRepositoryInfocasasImpl - {"data":[{"code":"SUCCESS","details":{"Modified_Time":"2022-01-20T18:15:50-05:00","Modified_By":{"name":"Admi LPD","id":"4889921000000312001"},"Created_Time":"2022-01-20T18:15:50-05:00","id":"4889921000022764017","Created_By":{"name":"Admi LPD","id":"4889921000000312001"}},"message":"record added","status":"success"}]}
-2022-01-20 18:16:01 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
-2022-01-20 18:16:59 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+2022-01-24 12:11:58 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
 
 Found multiple occurrences of org.json.JSONObject on the class path:
 
@@ -64,10 +7,10 @@ Found multiple occurrences of org.json.JSONObject on the class path:
 
 You may wish to exclude one of them to ensure predictable runtime behavior
 
-2022-01-20 18:16:59 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - Starting SpringBootLosPortalesInfoCasasApplicationTests using Java 1.8.0_292 on DESKTOP-003RRJR with PID 13276 (started by rolan in C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas)
-2022-01-20 18:16:59 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - No active profile set, falling back to default profiles: default
-2022-01-20 18:17:02 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - Started SpringBootLosPortalesInfoCasasApplicationTests in 3.143 seconds (JVM running for 4.919)
-2022-01-20 18:25:09 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+2022-01-24 12:11:58 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - Starting SpringBootLosPortalesInfoCasasApplicationTests using Java 1.8.0_292 on DESKTOP-003RRJR with PID 10676 (started by rolan in C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas)
+2022-01-24 12:11:58 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - No active profile set, falling back to default profiles: default
+2022-01-24 12:12:00 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - Started SpringBootLosPortalesInfoCasasApplicationTests in 1.874 seconds (JVM running for 2.852)
+2022-01-24 12:12:22 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
 
 Found multiple occurrences of org.json.JSONObject on the class path:
 
@@ -76,6 +19,18 @@ Found multiple occurrences of org.json.JSONObject on the class path:
 
 You may wish to exclude one of them to ensure predictable runtime behavior
 
-2022-01-20 18:25:09 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - Starting SpringBootLosPortalesInfoCasasApplicationTests using Java 15.0.2 on DESKTOP-003RRJR with PID 15808 (started by rolan in C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas)
-2022-01-20 18:25:09 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - No active profile set, falling back to default profiles: default
-2022-01-20 18:25:11 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - Started SpringBootLosPortalesInfoCasasApplicationTests in 2.916 seconds (JVM running for 4.862)
+2022-01-24 12:12:22 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - Starting SpringBootLosPortalesInfoCasasApplicationTests using Java 15.0.2 on DESKTOP-003RRJR with PID 16548 (started by rolan in C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas)
+2022-01-24 12:12:22 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - No active profile set, falling back to default profiles: default
+2022-01-24 12:12:23 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - Started SpringBootLosPortalesInfoCasasApplicationTests in 1.852 seconds (JVM running for 2.827)
+2022-01-24 12:32:58 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/rolan/.m2/repository/org/json/json/20170516/json-20170516.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/rolan/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2022-01-24 12:32:58 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - Starting SpringBootLosPortalesInfoCasasApplicationTests using Java 1.8.0_292 on DESKTOP-003RRJR with PID 3032 (started by rolan in C:\Users\rolan\Documents\m4g-projects\spring-boot-los-portales-info-casas)
+2022-01-24 12:32:58 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - No active profile set, falling back to default profiles: default
+2022-01-24 12:33:00 [main] INFO  c.s.i.a.SpringBootLosPortalesInfoCasasApplicationTests - Started SpringBootLosPortalesInfoCasasApplicationTests in 1.798 seconds (JVM running for 2.776)
